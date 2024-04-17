@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\bin\Debug\net8.0\cotacao_dolar.exe
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\bin\Debug\net8.0\cotacao_dolar.deps.json
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\bin\Debug\net8.0\cotacao_dolar.runtimeconfig.json
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\bin\Debug\net8.0\cotacao_dolar.dll
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\bin\Debug\net8.0\cotacao_dolar.pdb
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\obj\Debug\net8.0\cotacao_dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\obj\Debug\net8.0\cotacao_dolar.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\obj\Debug\net8.0\cotacao_dolar.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\obj\Debug\net8.0\cotacao_dolar.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\obj\Debug\net8.0\cotacao_dolar.dll
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\obj\Debug\net8.0\refint\cotacao_dolar.dll
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\obj\Debug\net8.0\cotacao_dolar.pdb
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\obj\Debug\net8.0\cotacao_dolar.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\estudo_csharp\cotacao_dolar\obj\Debug\net8.0\ref\cotacao_dolar.dll

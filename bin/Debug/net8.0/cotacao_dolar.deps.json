@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cotacao_dolar/1.0.0": {
+        "runtime": {
+          "cotacao_dolar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cotacao_dolar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
